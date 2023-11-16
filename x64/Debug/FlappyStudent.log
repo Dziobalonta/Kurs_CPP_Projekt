@@ -1,0 +1,16 @@
+﻿  Bird.cpp
+C:\DaneTomka\Programming\C++\FlappyStudent\Bird.cpp(25,44): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\DaneTomka\Programming\C++\FlappyStudent\Bird.cpp(25,30): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\DaneTomka\Programming\C++\FlappyStudent\Bird.cpp(66,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\DaneTomka\Programming\C++\FlappyStudent\Bird.cpp(66,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Game.cpp
+C:\DaneTomka\Programming\C++\FlappyStudent\Game.cpp(325,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\DaneTomka\Programming\C++\FlappyStudent\Game.cpp(325,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Main.cpp
+  Pipe.cpp
+C:\DaneTomka\Programming\C++\FlappyStudent\Pipe.cpp(12,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Text.cpp
+C:\DaneTomka\Programming\C++\FlappyStudent\Text.cpp(17,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\DaneTomka\Programming\C++\FlappyStudent\Text.cpp(17,22): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Generowanie kodu...
+  FlappyStudent.vcxproj -> C:\DaneTomka\Programming\C++\FlappyStudent\x64\Debug\FlappyStudent.exe
