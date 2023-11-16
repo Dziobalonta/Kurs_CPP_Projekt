@@ -1,3 +1,5 @@
+Projekt wymaga pobrania biblioteki SFML. Projekt tworzony był na wersji 2.5.1
+
 ===== INSTRUKCJA KOMPILACJI =====
 
 1. Otwórz plik FlappyStudent.sln z opcją "otwórz w programie Visual Studio"
